@@ -1,6 +1,6 @@
 # todo_vue_laravel
 
-A description of your app.
+A task manager app for multiple users
 
 ## Table of Contents
 
